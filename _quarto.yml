@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Cross-Stitch Adventures"
+  description: "Documenting my stitching journey, one project at a time"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: gallery.qmd
+        text: Gallery
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/amrapalisaha
+        
+format:
+  html:
+    theme: flatly
+    toc: true
+    code-copy: false
+    link-external-newwindow: true
+    link-external-icon: true

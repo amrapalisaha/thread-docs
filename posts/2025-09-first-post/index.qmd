@@ -1,0 +1,41 @@
+---
+title: "Welcome to My Cross-Stitch Blog!"
+author: "Your Name"
+date: "2024-03-20"
+categories: [welcome, about-me]
+image: "featured.jpg"
+---
+
+![My Stitching Corner](featured.jpg)
+
+## Hello, Stitching World!
+
+I'm so excited to start this blog! I've been cross-stitching for a while now, but I realized I wasn't keeping track of all the wonderful things I was learning along the way.
+
+### Why Start a Blog?
+
+**Learning Documentation**: Every project teaches me something new - techniques, color combinations, problem-solving approaches. I want to remember these lessons!
+
+**Community Connection**: The cross-stitch community is incredibly welcoming and supportive. I'd love to connect with fellow stitchers and share experiences.
+
+**Progress Motivation**: There's something motivating about documenting progress. It helps me see how far I've come!
+
+### What to Expect
+
+**Project Updates**: Regular posts about my current works in progress, including photos and reflections on what I'm learning.
+
+**Technique Tips**: When I figure out a tricky technique or find a helpful method, I'll share it here.
+
+**Pattern Reviews**: Honest thoughts about patterns I've worked, including difficulty level and any modifications I made.
+
+**Supply Reviews**: My thoughts on different fabrics, threads, and tools as I try them.
+
+## Current Project Sneak Peek
+
+I'm working on an absolutely gorgeous autumn sampler right now. The color blending is challenging but so rewarding. Here's a tiny preview:
+
+![Autumn Sampler WIP](autumn-preview.jpg)
+
+Can't wait to share more progress with you all!
+
+Happy stitching! 🧵✨

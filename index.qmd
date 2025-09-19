@@ -1,0 +1,31 @@
+---
+title: "Welcome to My Cross-stitch World"
+---
+
+<!-- ![My Latest Work](images/hero-image.jpg){.hero-image} -->
+
+## Hello, Fellow Stitchers!
+
+Welcome to my corner of the internet where I share my cross-stitch adventures! I'm passionate about this beautiful craft and love documenting my projects, sharing techniques I've learned, and connecting with other stitching enthusiasts.
+
+## What You'll Find Here
+
+### 🧵 **Current Projects**
+Follow along as I work on my latest pieces, from simple samplers to complex heirloom designs.
+
+### 📸 **Project Gallery** 
+Browse through my completed works with detailed photos and the stories behind each piece.
+
+### ✨ **About My Journey**
+Learn how I discovered cross-stitch and what keeps me passionate about this craft.
+
+## Latest Updates
+
+::: {.callout-note}
+## Currently Working On
+**Autumn Leaves Sampler** - A gorgeous seasonal piece with intricate shading and beautiful fall colors. About 60% complete!
+:::
+
+---
+
+*Happy stitching, and thanks for visiting!* 🪡
