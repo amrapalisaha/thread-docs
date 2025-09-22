@@ -2,9 +2,9 @@
 title: "About"
 ---
 
-![Yours truly](images/profile-photo.jpg){.profile-image}
-
 # Hi, I'm Amrapali!
+
+![Amrapali](images/profile-photo.jpg){.profile-image}
 
 I'm passionate about creating sophisticated cross-stitch pieces to mark life's most important moments. From wedding samplers to birth announcements, I love transforming meaningful occasions into beautiful, lasting art.
 
