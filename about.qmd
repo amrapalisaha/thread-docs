@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-!(images/profile-photo.jpg){.profile-image}
+![Yours truly](images/profile-photo.jpg){.profile-image}
 
 # Hi, I'm Amrapali!
 
@@ -11,6 +11,8 @@ I'm passionate about creating sophisticated cross-stitch pieces to mark life's m
 Thread Docs showcases both my needlework and my journey learning modern technical writing tools. Each project here represents hours of careful planning, precise execution, and thoughtful documentation.
 
 When I'm not tethered to the desk to write or stitch, I am out in the wild hiking.
+
+---
 
 ### My Cross-Stitch Journey 🧵
 
