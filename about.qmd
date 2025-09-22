@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-![Amrapali Saha](images/profile-photo.jpg){.profile-image}
+!(images/profile-photo.jpg){.profile-image}
 
 # Hi, I'm Amrapali!
 
@@ -17,15 +17,17 @@ When I'm not tethered to the desk to write or stitch, I am out in the wild hikin
 I discovered cross-stitch in 2019 and quickly fell in love with the meditative quality of the craft. What started as a simple hobby has evolved into creating sophisticated pieces.
 
 **What I specialize in:**
-- **Commemorative pieces** for weddings, births, and special occasions
-- **Complex designs** that challenge traditional techniques
-- **Experimental stitching** with different thread types and fabric combinations
-- **Personalized gifts** that capture meaningful memories
+
+- **Commemorative pieces** for weddings, births, and special occasions  
+- **Complex designs** that challenge traditional techniques  
+- **Experimental stitching** with different thread types and fabric combinations  
+- **Personalized gifts** that capture meaningful memories  
 
 ### The Technical Side 📝
 
 Thread Docs isn't just about showcasing my needlework - it's also a demonstration of modern technical writing and web development skills. This site is built using:
-- **Quarto** for content creation
-- **Markdown** for clean, semantic writing
-- **Git/GitHub** for version control and collaboration
-- **GitHub Actions** for automated deployment
+
+- **Quarto** for content creation  
+- **Markdown** for clean, semantic writing  
+- **Git/GitHub** for version control and collaboration  
+- **GitHub Actions** for automated deployment  
