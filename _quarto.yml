@@ -10,8 +10,8 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: gallery.qmd
-        text: Gallery
+     # - href: gallery.qmd
+      #  text: Gallery
       - href: about.qmd
         text: About
     right:
@@ -21,6 +21,7 @@ website:
 format:
   html:
     theme: flatly
+    css: styles.css
     toc: true
     code-copy: false
     link-external-newwindow: true
