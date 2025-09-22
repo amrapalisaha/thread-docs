@@ -1,66 +1,84 @@
 ---
-title: "My Cross-Stitch Projects"
+title: "Project Portfolio"
 ---
-
-# Project Portfolio
 
 Here's a showcase of my cross-stitch projects, from works in progress to treasured completed pieces.
 
-## Current Projects
+## Completed Projects
 
-### Baby Koala
-**Completed:** September 2025
+### Baby koala
+
+**Completed:** September 2025  
 **Fabric:** 14-count white Aida  
 **Threads:** DMC cotton floss  
+**Source:** [Personalized Baby Koala Birth Announcement from KitsBySAstitch](https://www.etsy.com/listing/1718843406/personalized-birth-announcement-cross)
 
-![Finished photo](images/baby-koala.jpg)
 
-This cute design features intricate leaf patterns with beautiful color blending. I'm learning advanced shading techniques and loving every stitch!
+![Koala for Addie](images/baby-koala.jpg){.project-image}
 
-**Challenges:**
+This cute design features an adorable koala, a vine pattern with beautiful color blending, and personalized birth details. I made this for my goddaughter who is turning 6 months old soon.
+
+**Techniques Used:**
+
 - Mastering French knots for texture
-- Color blending for realistic leaves
-- Maintaining consistent tension across the large design
+- Copious amounts of backstitch for a very hairy koala
 
 ---
 
-## Completed Projects
-
-### Wedding Announcement
-**Completed:** August 2024  
+### Wedding announcement for my sister-in-law
+**Completed:** August 2025  
 **Fabric:** 14-count white Aida  
+**Threads:** DMC cotton floss  
+**Source:** [Personalized Rustic Wedding Metric from KitsBySAstitch](https://www.etsy.com/listing/1662291456/personalized-rustic-wedding-metric-with)
 
-![Finished photo](images/wedding-announcement.jpg)
+![Maura and Kevin](images/wedding-announcement-mk.jpg){.project-image}
 
-My first completed project this year! A delicate floral design perfect for marking my place in stitching magazines.
-
-**What I Learned:**
-- Basic cross-stitch fundamentals
-- How to finish edges properly
-- The importance of good lighting
-
-### Blue Jay
-**Completed:** June 2024  
-**Fabric:** 14-count white Aida    
-
-![Blue Jay](images/blue-jay.jpeg)
-
-A traditional sampler with alphabet, numbers, and a charming house motif. This piece holds special meaning as it was my grandmother's pattern.
+I made this wedding keepsake for my sister-in-law Maura and her fianc&eacute; Kevin.
 
 **Techniques Used:**
-- Basic cross-stitch
-- Backstitch for outlines
-- Simple border patterns
+
+- Backstitching for the first time  
+- Color blending for depth and texture  
+
+---
+
+### Blue jay
+**Completed:** February 2025    
+**Fabric:** 14-count white Aida   
+**Threads:** DMC cotton floss  
+**Source:** [Blue Jay from HelloHoop](https://www.etsy.com/listing/965678244/blue-jay-cross-stitch-pattern-birds) 
+
+![Blue Jay](images/blue-jay.jpeg){.project-image}
+
+Blue jays are my favorite birds! I finally got around to making this beautiful piece to hang on my cross-stitch showcase wall during the spring season.
+
+**Techniques Used:**
+
+- Shading for depth  
+
+---
+
+### The cardinals
+**Completed:** May 2024  
+**Fabric:** 14-count white Aida   
+**Threads:** DMC cotton floss  
+**Source:** [Winter Red Cardinal Birds by CrossStitchTR](https://www.etsy.com/listing/1141169836/winter-red-cardinal-birds-pdf-counted) 
+
+![Red and Coral](images/cardinals-couple.jpg){.project-image}
+
+This pair of cardinals have been a mainstay of my life in my adopted homeland, United States. I call them Mr. Red Cardinal and Mrs. Coral Cardinal.
+
+**Techniques Used:**
+
+- Shading for depth  
+
 
 ---
 
 ## Upcoming Projects
 
-### Winter Wonderland Scene
-A complex landscape piece I'm planning for the holiday season.
-
-### Vintage Rose Pillow
-Converting a beautiful vintage pattern into a decorative pillow.
+### Wedding cross-stitch for my cousin and his wife
+A beautiful floral wreath with personalized details that I am hoping to complete before the holiday season. Wish me luck!
 
 ---
 

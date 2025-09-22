@@ -1,1 +1,27 @@
 /* css styles */
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+
+/* Uniform project images */
+.project-image {
+    width: 100%;
+    max-width: 400px;
+    height: 300px;
+    object-fit: cover;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    margin: 1rem 0;
+    display: block;
+}
+
+.profile-image {
+    width: 150px;          /* Smaller size */
+    height: 150px;         /* Smaller size */
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #e9ecef;
+    margin: 1rem auto;
+    display: block;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
