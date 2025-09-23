@@ -16,25 +16,107 @@
     /* Removed: margin: 0 0 1rem 2rem; */
 }
 
-/* Project images - show full image, smaller size, clickable */
-.project-image {
-    width: 100%;
-    max-width: 300px;
-    height: auto;              /* This shows the full image */
-    border: 2px solid #e0e0e0;
-    border-radius: 8px;
-    margin: 1rem auto;
+/* Gallery Grid Styles */
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 2rem 0;
+}
+
+.project-card {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    text-decoration: none;
+    color: inherit;
     display: block;
-    cursor: pointer;           /* Shows it's clickable */
-    transition: transform 0.2s ease;
 }
 
-.project-image:hover {
-    transform: scale(1.05);    /* Slight zoom on hover */
-    border-color: #007bff;
+.project-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    text-decoration: none;
+    color: inherit;
 }
 
-/* When image is clicked, it opens full size */
-.project-image:active {
-    transform: scale(0.98);
+.project-card-image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.project-card-content {
+    padding: 1.5rem;
+}
+
+.project-card-title {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: #2c3e50;
+}
+
+.project-card-meta {
+    font-size: 0.9rem;
+    color: #6c757d;
+    margin-bottom: 1rem;
+}
+
+.project-card-description {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+}
+
+.project-status {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.status-completed {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.status-in-progress {
+    background-color: #fff3cd;
+    color: #856404;
+}
+
+.status-planning {
+    background-color: #cce5ff;
+    color: #004085;
+}
+
+/* Individual project page styles */
+.project-hero {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+    margin: 2rem auto;
+    display: block;
+}
+
+.progress-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.progress-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 2px solid #e9ecef;
 }

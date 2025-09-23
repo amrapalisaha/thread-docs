@@ -1,0 +1,22 @@
+---
+title: "Baby Koala Birth Announcement"
+description: "Custom birth announcement featuring an adorable koala design"
+date: "September 2025"
+image: "my-cross-stitch-site/images/baby-koala-updated.jpg"
+---
+
+![Baby Koala Birth Announcement](../images/baby-koala-updated.jpg){.project-hero}
+
+*This cute design features an adorable koala, a vine pattern with beautiful color blending, and personalized birth details. I made this for my goddaughter who is turning 6 months old soon.*
+
+**Completed:** September 2025  
+**Fabric:** 14-count white Aida  
+**Threads:** DMC cotton floss  
+**Source:** [Personalized Baby Koala Birth Announcement from KitsBySAstitch](https://www.etsy.com/listing/1718843406/personalized-birth-announcement-cross)
+
+**Techniques Used:**
+
+- Mastering French knots for texture
+- Copious amounts of backstitch for a very hairy koala
+
+[← Back to Projects](../projects.qmd)

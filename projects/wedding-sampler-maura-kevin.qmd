@@ -1,0 +1,22 @@
+---
+title: "Wedding Sampler"
+description: "A beautiful wedding sampler for my sister-in-law and ger fianc&eacute;"
+date: "August 2025"
+image: "my-cross-stitch-site/images/wedding-sampler-mk.jpg"
+---
+
+![Wedding Sampler](../images/wedding-announcement-mk.jpg){.project-hero}
+
+*I made this wedding keepsake for my sister-in-law Maura and her fianc&eacute; Kevin.*
+
+**Completed:** August 2025  
+**Fabric:** 14-count white Aida  
+**Threads:** DMC cotton floss  
+**Source:** [Personalized Rustic Wedding Metric from KitsBySAstitch](https://www.etsy.com/listing/1662291456/personalized-rustic-wedding-metric-with)
+
+**Techniques Used:**
+
+- Backstitching for the first time  
+- Color blending for depth and texture  
+
+[← Back to Projects](../projects.qmd)
