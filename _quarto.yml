@@ -4,26 +4,26 @@ project:
 website:
   title: "Thread Docs"
   description: "Where technical writing meets cross-stitch artistry"
-navbar:
-  left:
-    - href: index.qmd
-      text: Home
-    - text: Projects
-      menu:
-        - href: projects.qmd
-          text: Gallery View
-        - text: "---"
-        - href: projects/baby-koala.qmd
-          text: Baby Koala
-        - href: projects/wedding-sampler-maura-kevin.qmd
-          text: Wedding Sampler
-        - href: projects/blue-jay.qmd
-          text: Blue Jay
-        - href: projects/cardinals-couple.qmd
-          text: Cardinals Couple
-    - href: about.qmd
-      text: About
-  right:
+  navbar:                  
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Projects
+        menu:
+          - href: projects.qmd
+            text: Gallery View
+          - text: "---"
+          - href: projects/baby-koala.qmd
+            text: Baby Koala
+          - href: projects/wedding-sampler-maura-kevin.qmd
+            text: Wedding Sampler
+          - href: projects/blue-jay.qmd
+            text: Blue Jay
+          - href: projects/cardinals-couple.qmd
+            text: Cardinals Couple
+      - href: about.qmd
+        text: About
+    right:
       - icon: github
         href: https://github.com/amrapalisaha
         
