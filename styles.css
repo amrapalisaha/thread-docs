@@ -10,18 +10,31 @@
     border-radius: 50%;
     border: 3px solid #e9ecef;
     display: block;
-    margin: 1rem auto;     /* Centers the image */
+    margin: 1rem auto;        /* Centers the image */
     box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    /* Removed: float: right; */
+    /* Removed: margin: 0 0 1rem 2rem; */
 }
 
-/* Project images for consistent sizing */
+/* Project images - show full image, smaller size, clickable */
 .project-image {
     width: 100%;
-    max-width: 400px;
-    height: 300px;
-    object-fit: cover;
+    max-width: 300px;
+    height: auto;              /* This shows the full image */
     border: 2px solid #e0e0e0;
     border-radius: 8px;
-    margin: 1rem 0;
+    margin: 1rem auto;
     display: block;
+    cursor: pointer;           /* Shows it's clickable */
+    transition: transform 0.2s ease;
+}
+
+.project-image:hover {
+    transform: scale(1.05);    /* Slight zoom on hover */
+    border-color: #007bff;
+}
+
+/* When image is clicked, it opens full size */
+.project-image:active {
+    transform: scale(0.98);
 }
