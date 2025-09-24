@@ -1,9 +1,7 @@
 ---
 title: "Project Portfolio"
-description: "A showcase of cross-stitch projects, from commemorative pieces to personal creations"
+description: "*A showcase of cross-stitch projects, from commemorative pieces to personal creations*"
 ---
-
-## Featured Projects
 
 ::: {.projects-grid}
 

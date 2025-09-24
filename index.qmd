@@ -1,21 +1,20 @@
 ---
 title: "Thread Docs"
+description: "Where *technical writing chops* meet  *cross-stitch artistry*"
 ---
-
-Welcome to **Thread Docs**! This is where my *technical writing chops* meet my *cross-stitch artistry*.
 
 I have been working as a technical writer for as long as I have been cross-stitching. This website is a testament to a process I deeply enjoy and is common to both technical writing and cross-stitch, taking something seemingly complex and transforming it into something beautiful.
 
-### 🧵 **Current projects**
+## **Current projects**
 Follow along as I work on my latest pieces, from simple samplers to complex designs.
 
-### 📸 **Project gallery** 
+## **Project gallery**
 Browse through my completed works with detailed photos and the stories behind each piece.
 
-### ✨ **About my journey**
+## **About my journey**
 Learn how I discovered cross-stitch and what keeps me passionate about this craft.
 
-## Latest updates
+## **Latest updates**
 
 ::: {.callout-note}
 ## Currently Working On
