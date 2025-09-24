@@ -1,6 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Crimson+Text:wght@400;600&display=swap');
+
 /*-- scss:defaults --*/
 
 /*-- scss:rules --*/
+
+/* Cool Crafts Color Palette */
+:root {
+  /* Primary brand colors */
+  --primary-color: #8FBC8F;        /* Sage green */
+  --secondary-color: #B0C4DE;      /* Light steel blue */
+  --accent-color: #F8F8FF;         /* Ghost white */
+  
+  /* Lavender accent tones */
+  --lavender-light: #E6E6FA;       /* Lavender */
+  --lavender-medium: #DDA0DD;      /* Plum */
+  
+  /* Status colors */
+  --success-color: #66CDAA;        /* Medium aquamarine */
+  --warning-color: #F0E68C;        /* Khaki */
+  --info-color: #4682B4;           /* Steel blue */
+  
+  /* Neutral colors */
+  --dark-text: #2F4F4F;            /* Dark slate gray */
+  --muted-text: #708090;           /* Slate gray */
+}
 
 /* Profile image for about page */
 .profile-image {
@@ -8,12 +31,10 @@
     height: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 3px solid #e9ecef;
+    border: 3px solid var(--primary-color);        /* Updated with sage green */
     display: block;
-    margin: 1rem auto;        /* Centers the image */
-    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
-    /* Removed: float: right; */
-    /* Removed: margin: 0 0 1rem 2rem; */
+    margin: 1rem auto;
+    box-shadow: 0 4px 8px rgba(143, 188, 143, 0.4); /* Updated shadow color */
 }
 
 /* Gallery Grid Styles */
@@ -25,8 +46,9 @@
 }
 
 .project-card {
-    background: white;
+    background: var(--accent-color);               /* Updated background */
     border-radius: 12px;
+    border: 2px solid var(--lavender-light);      /* Added subtle border */
     overflow: hidden;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     transition: all 0.3s ease;
@@ -37,7 +59,8 @@
 
 .project-card:hover {
     transform: translateY(-8px);
-    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    box-shadow: 0 8px 25px rgba(143, 188, 143, 0.2); /* Updated hover shadow */
+    border-color: var(--primary-color);              /* Updated hover border */
     text-decoration: none;
     color: inherit;
 }
@@ -56,19 +79,19 @@
     font-size: 1.3rem;
     font-weight: bold;
     margin-bottom: 0.5rem;
-    color: #2c3e50;
+    color: var(--dark-text);                      /* Updated color */
 }
 
 .project-card-meta {
     font-size: 0.9rem;
-    color: #6c757d;
+    color: var(--muted-text);                     /* Updated color */
     margin-bottom: 1rem;
 }
 
 .project-card-description {
     font-size: 1rem;
     line-height: 1.5;
-    color: #495057;
+    color: var(--dark-text);                      /* Updated color */
 }
 
 .project-status {
@@ -81,18 +104,21 @@
 }
 
 .status-completed {
-    background-color: #d4edda;
-    color: #155724;
+    background-color: rgba(102, 205, 170, 0.2);   /* Updated with cool palette */
+    color: var(--success-color);
+    border: 1px solid var(--success-color);
 }
 
 .status-in-progress {
-    background-color: #fff3cd;
-    color: #856404;
+    background-color: rgba(240, 230, 140, 0.2);   /* Updated with cool palette */
+    color: #B8860B;
+    border: 1px solid var(--warning-color);
 }
 
 .status-planning {
-    background-color: #cce5ff;
-    color: #004085;
+    background-color: rgba(70, 130, 180, 0.2);    /* Updated with cool palette */
+    color: var(--info-color);
+    border: 1px solid var(--info-color);
 }
 
 /* Individual project page styles */
@@ -101,9 +127,10 @@
     max-width: 600px;
     height: auto;
     border-radius: 12px;
-    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+    box-shadow: 0 6px 20px rgba(143, 188, 143, 0.2); /* Updated shadow */
     margin: 2rem auto;
     display: block;
+    border: 2px solid var(--lavender-light);         /* Added border */
 }
 
 .progress-grid {
@@ -118,7 +145,7 @@
     height: 200px;
     object-fit: cover;
     border-radius: 8px;
-    border: 2px solid #e9ecef;
+    border: 2px solid var(--secondary-color);        /* Updated border color */
 }
 
 .project-card {
@@ -133,4 +160,40 @@
     height: 100%;
     z-index: 10;
     text-decoration: none;
+}
+/* Green gradient headings - dark to light */
+h1 {
+    color: #2F5233;    /* Dark forest green */
+}
+
+h2 {
+    color: #4A7C59;    /* Medium-dark green */
+    border-bottom: 2px solid var(--lavender-light);
+    padding-bottom: 0.5rem;
+}
+
+h3 {
+    color: #66A182;    /* Medium green */
+}
+
+h4 {
+    color: var(--primary-color);    /* Your sage green (#8FBC8F) */
+}
+
+h5 {
+    color: #A8C8A8;    /* Light sage green */
+}
+
+h6 {
+    color: #C1D5C1;    /* Very light green */
+}
+/* Option 2: Warm & Crafty */
+body {
+    font-family: 'Source Sans Pro', 'Segoe UI', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.65;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', Georgia, serif;
 }
