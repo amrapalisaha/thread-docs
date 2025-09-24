@@ -65,6 +65,34 @@
     color: inherit;
 }
 
+/* Enhanced project card animations */
+.project-card {
+    background: var(--accent-color);
+    border-radius: 12px;
+    border: 2px solid var(--lavender-light);
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); /* Smoother transition */
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.project-card:hover {
+    transform: translateY(-12px) scale(1.02); /* More dramatic lift + slight scale */
+    box-shadow: 0 12px 35px rgba(143, 188, 143, 0.3); /* Larger, more colorful shadow */
+    border-color: var(--primary-color);
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Add a subtle glow effect on focus for accessibility */
+.project-card:focus {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 2px;
+    transform: translateY(-8px);
+}
+
 .project-card-image {
     width: 100%;
     height: 250px;
