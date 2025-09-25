@@ -225,3 +225,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', Georgia, serif;
 }
+
+.project-date {
+    color: var(--primary-color);
+    font-weight: 500;
+}
