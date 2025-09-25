@@ -10,9 +10,9 @@ description: "*A showcase of cross-stitch projects, from commemorative pieces to
 ![Baby Koala](images/baby-koala-updated.jpg){.project-card-image}
 
 ::: {.project-card-content}
-**Baby Koala Birth Announcement**
+**Koala Birth Announcement**
 
-*September 2025*
+<span class="project-date">September 2025</span>
 
 A charming birth announcement featuring an adorable koala design with backstitch, French knot texture work, and elegant lettering.
 
@@ -27,7 +27,7 @@ A charming birth announcement featuring an adorable koala design with backstitch
 ::: {.project-card-content}
 **Wedding Sampler for Maura & Kevin**
 
-*August 2025*
+<span class="project-date">August 2025</span>
 
 Elegant commemorative piece featuring personalized wedding details.
 
@@ -42,7 +42,7 @@ Elegant commemorative piece featuring personalized wedding details.
 ::: {.project-card-content}
 **Blue Jay**
 
-*June 2024*
+<span class="project-date">June 2024</span>
 
 Cute little blue jay about to hop off.
 
@@ -57,7 +57,7 @@ Cute little blue jay about to hop off.
 ::: {.project-card-content}
 **Cardinals Couple**
 
-*May 2024*
+<span class="project-date">May 2024</span>
 
 A watercolor-like vision of a pair of cardinals, Red and Coral.
 

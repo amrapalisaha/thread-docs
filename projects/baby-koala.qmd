@@ -1,5 +1,5 @@
 ---
-title: "Baby Koala Birth Announcement"
+title: "Koala Birth Announcement"
 description: "Custom birth announcement featuring an adorable koala design"
 date: "September 2025"
 image: "my-cross-stitch-site/images/baby-koala-updated.jpg"
