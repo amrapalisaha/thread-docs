@@ -1,15 +1,14 @@
 ---
 title: "Blue Jay"
 description: "A lifelike blue jay design"
-date: "June 2024"
+date: "February 2025"
 image: "my-cross-stitch-site/images/blue-jay.jpeg"
 ---
 
-![Blue Jay](../images/blue-jay.jpeg){.project-hero}
+![](../images/blue-jay.jpeg){.project-hero}
 
 *Blue jays are my favorite birds! I finally got around to making this beautiful piece to hang on my cross-stitch showcase wall during the spring season.*
-
-**Completed:** February 2025    
+  
 **Fabric:** 14-count white Aida   
 **Threads:** DMC cotton floss  
 **Source:** [Blue Jay from HelloHoop](https://www.etsy.com/listing/965678244/blue-jay-cross-stitch-pattern-birds)

@@ -1,15 +1,14 @@
 ---
 title: "Red and Coral"
 description: "A pair of cardinals for some holiday cheer"
-date: "February 2025"
+date: "May 2024"
 image: "my-cross-stitch-site/images/cardinals-couple.jpg"
 ---
 
-![Cardinals Couple](../images/cardinals-couple.jpg){.project-hero}
+![](../images/cardinals-couple.jpg){.project-hero}
 
 *This pair of cardinals have been a mainstay of my life in my adopted homeland, United States. I call them Mr. Red Cardinal and Mrs. Coral Cardinal.*
 
-**Completed:** May 2024  
 **Fabric:** 14-count white Aida   
 **Threads:** DMC cotton floss  
 **Source:** [Winter Red Cardinal Birds by CrossStitchTR](https://www.etsy.com/listing/1141169836/winter-red-cardinal-birds-pdf-counted) 
