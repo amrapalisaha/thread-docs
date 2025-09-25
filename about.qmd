@@ -4,28 +4,26 @@ title: "Hi, I'm Amrapali"
 
 ![](images/profile-photo.jpg){.profile-image}
 
-I'm passionate about creating sophisticated cross-stitch pieces to mark life's most important moments. From wedding samplers to birth announcements, I love transforming meaningful occasions into beautiful, lasting art.
+I am passionate about creating sophisticated cross-stitch pieces to mark life's important moments. From wedding samplers to birth announcements, I love transforming meaningful occasions into beautiful, lasting stitched art.
 
-Thread Docs showcases both my needlework and my journey learning modern technical writing tools. Each project here represents hours of careful planning, precise execution, and thoughtful documentation.
+Thread Docs showcases both my needlework and my proficiency in the use of modern technical writing tools. Each project here represents months of careful planning and precise execution, followed up by thoughtful documentation.
 
-When I'm not tethered to the desk to write or stitch, I am out in the wild hiking.
+When I'm not tethered to the desk to write or stitch, you can find me out and about in the wild, hiking.
 
 ---
 
-### My Cross-Stitch Journey 🧵
+### My Cross-Stitch Journey
 
-I discovered cross-stitch in 2019 and quickly fell in love with the meditative quality of the craft. What started as a simple hobby has evolved into creating sophisticated pieces.
-
-**What I specialize in:**
+I discovered cross-stitch in 2019 and quickly fell in love with the meditative quality of the craft. What started as a simple hobby has evolved into a penchant for creating sophisticated pieces.
 
 - **Commemorative pieces** for weddings, births, and special occasions  
-- **Complex designs** that challenge traditional techniques  
+- **Complex designs** that mark a departure from traditional samplers  
 - **Experimental stitching** with different thread types and fabric combinations  
 - **Personalized gifts** that capture meaningful memories  
 
-### The Technical Side 📝
+### The Technical Side
 
-Thread Docs isn't just about showcasing my needlework - it's also a demonstration of modern technical writing and web development skills. This site is built using:
+Thread Docs isn't just about showcasing my needlework — it's also a demonstration of modern technical writing and web development skills. This site is built using:
 
 - **Quarto** for content creation  
 - **Markdown** for clean, semantic writing  
