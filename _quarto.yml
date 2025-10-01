@@ -35,3 +35,6 @@ format:
     code-copy: false
     link-external-newwindow: true
     link-external-icon: true
+    include-after-body:
+      text: |
+        <script src="/assets/lightbox.js"></script>
